@@ -1,6 +1,6 @@
 name: Track report
 description: A problem with Museum After Hours, as RVGL draws it, plays it or drives it.
-title: "[1.1] Short description of the problem"
+title: "[1.1.1] Short description of the problem"
 labels: ["track report"]
 body:
   - type: markdown
@@ -12,7 +12,7 @@ body:
     attributes:
       label: "Track version"
       description: The version in the readme of levels/mu_afterhours, or the release you downloaded.
-      placeholder: "1.1"
+      placeholder: "1.1.1"
     validations:
       required: true
   - type: input

@@ -44,7 +44,7 @@ What to expect in a race:
 
 - two storeys, a lap that passes under itself three times and a 0.45 m high air vent into the security room;
 - four branches that the CPU cars take only in races with pickups on: round the allosaurus, round the pyramid, the east half of the Sun's ring with a jump over a gap in the glass, and the east lane of the aquarium;
-- 23 pickups, a practice star over the tip of the pyramid, direction arrows at every turn and a Fork arrow before the aquarium lane;
+- 23 pickups, a practice star over the tip of the pyramid, direction arrows at every turn and Fork arrows before the Sun's ring and the aquarium lane;
 - animated fish, jellies, planets and asteroid belt, CO2 jets and runway lights blinking in the cars' direction;
 - eighteen security cameras round the lap, used by the replay camera;
 - the machines of the closed museum: air handling, display cases, aquarium pumps, fans and a ticking clock, one sound at a time along the lap.
@@ -96,6 +96,7 @@ Every release published on Re-Volt World is here, the latest first. Each release
 
 | Version | Released | What changed |
 | --- | --- | --- |
+| [1.1.1](https://github.com/6up3r/rvgl-museum-after-hours/releases/tag/v1.1.1) | 13 November 2026 | the queue ropes' collision and the wall over the aquarium ramp fixed |
 | [1.1](https://github.com/6up3r/rvgl-museum-after-hours/releases/tag/v1.1) | 23 October 2026 | the whole track lighter without losing detail |
 | [1.0.2](https://github.com/6up3r/rvgl-museum-after-hours/releases/tag/v1.0.2) | 22 October 2026 | the pyramid fixed, a smoother aquarium |
 | [1.0.1](https://github.com/6up3r/rvgl-museum-after-hours/releases/tag/v1.0.1) | 21 October 2026 | the entrance sill and the security room desks fixed |
